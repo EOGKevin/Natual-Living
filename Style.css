@@ -1,0 +1,50 @@
+/*------------------Alle...------------------*/
+body {
+    margin: 0;
+}
+
+li {
+    list-style: none;
+}
+/*------------------------------------*/
+
+
+/*------------------Header------------------*/
+header img {
+    width: 100%;
+}
+
+nav {
+    background-color: black; /*Placeholder*/
+    color: white; /*Placeholder*/
+}
+
+
+/*------------------------------------*/
+
+
+/*------------------Main------------------*/
+main section:nth-of-type(2) {
+    background-color: lightgray; /*Placeholder*/
+}
+
+main article div {
+    background-color: white;
+    display: flex;
+}
+/*------------------------------------*/
+
+
+/*------------------Footer------------------*/
+footer {
+    background-color: rgb(93, 93, 93); /*Placeholder*/
+    color: lightgray; /*Placeholder*/
+}
+
+footer a {
+    color: lightgray; /*Placeholder*/
+}
+/*------------------------------------*/
+/* nav h1 {
+    font-family: 'Nunito Sans', sans-serif;
+} */
